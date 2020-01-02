@@ -16,9 +16,7 @@ public class 线程的两种创建方式 {
          *      Thread t1 = new Thread(){
          *          @Override
          *          public void run(){
-         *
          *          }
-         *
          *      }
          */
         //1.匿名内部类实现 Runnable接口,再重写里面的run方法里写开启线程的业务
