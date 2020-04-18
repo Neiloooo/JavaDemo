@@ -1,12 +1,8 @@
 package java的截取字符串;
-
 import org.junit.Test;
-
-import java.text.SimpleDateFormat;
 
 public class 一截取字符串 {
     String a="http://localhost:5432/etcpos/fetchOBUInfo.do?rsuIp=192.168.0.54&fetchStationInfo=false&timeout=5000";
-
     String b= "0012";
     String c= "0011";
     String d= "0001";
@@ -23,5 +19,4 @@ public class 一截取字符串 {
             }
             System.out.println();
         }
-
 }

@@ -2,7 +2,6 @@ package java的类型操作;
 
 import org.junit.Test;
 
-import java.util.HashSet;
 
 /**
  * @Auther: liushuo
